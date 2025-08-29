@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+PyYAML
+dnspython
+openpyxl
+lxml
+tqdm
+streamlit
+plotly
